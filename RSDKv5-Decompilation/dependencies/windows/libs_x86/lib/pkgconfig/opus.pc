@@ -1,0 +1,16 @@
+# Opus codec reference implementation pkg-config file
+
+prefix=E:/GIT/RSDKv5-Decompilation/dependencies/windows/libs_x86
+exec_prefix=E:/GIT/RSDKv5-Decompilation/dependencies/windows/libs_x86
+libdir=E:/GIT/RSDKv5-Decompilation/dependencies/windows/libs_x86/lib
+includedir=E:/GIT/RSDKv5-Decompilation/dependencies/windows/libs_x86/include
+
+Name: Opus
+Description: Opus IETF audio codec ( build)
+URL: https://opus-codec.org/
+Version: 1.4-1-gf3de7ca7
+Requires:
+Conflicts:
+Libs: -LE:/GIT/RSDKv5-Decompilation/dependencies/windows/libs_x86/lib -lopus
+Libs.private: -lm
+Cflags: -IE:/GIT/RSDKv5-Decompilation/dependencies/windows/libs_x86/include/opus

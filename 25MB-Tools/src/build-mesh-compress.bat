@@ -1,0 +1,1 @@
+gcc -static -g3 -o ../mesh-compress.exe mesh-compress.c miniz.c

@@ -1,0 +1,1 @@
+gcc -static -g3 -o ../stereo2monophase.exe stereo2monophase.c wav.c pathutils.c
