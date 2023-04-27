@@ -10,7 +10,7 @@ You need to download some stuff first.
 After that you need to:
   - install CMake (add it to PATH in the installer)
   - unpack both the compiler and FFmpeg
-  - add both `mingw32/bin` and `ffmpeg/bin` folders to PATH
+  - add both `mingw32/bin` and `ffmpeg/bin` folders to PATH, the directory should have no spaces!!!
 
 When it's done, copy `Data.rsdk` from your copy of Sonic Mania Plus to the `./Data-rsdk` directory and run `compress-data-rsdk.bat` - it will take some time because video compression.
 Then, you will have a `./Data-rsdk/Data-Small.rsdk` file, hopefully it'll be 24.7MB.
