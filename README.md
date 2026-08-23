@@ -1,6 +1,9 @@
 # Sonic-Mania-25MB
 RSDKv5 and Sonic Mania decompilation with added VP9 video and OPUS audio capabilities to make the game 25MB.
 
+**DISCLAIMER**
+[I have released a 20MB version in a separate repository!](https://github.com/ThisKwasior/Sonic-Mania-20MB)
+
 # How to build
 You need to download some stuff first.
   - [CMake](https://cmake.org/download/)
